@@ -95,4 +95,4 @@ Future enhancements to this project could include:
 Hamid Shah
 
 ## Acknowledgments
-Special thanks to the course instructor and teaching staff of CS 439 for their guidance and support throughout this project.
+Special thanks to the course instructor and teaching staff of CS 439 for their guidance and support throughout this project. ^_^

@@ -79,9 +79,8 @@ print(f"Probability of Malignant: {probabilities[0][1]:.3f}")
 ## Repository Structure
 ```
 ├── FinalProject.ipynb          # Main Jupyter notebook with implementation
-├── thyroid_cancer_risk_data.csv # Dataset
-├── README.md                    # Project documentation
-└── images/                      # Visualizations and results
+├── README.md                    # Project documentation 
+└── thyroid_cancer_risk_data.csv # Dataset
 ```
 
 ## Future Work

@@ -1,4 +1,4 @@
-# Thyroid Cancer Risk Predictor
+# Thyroid Cancer Risk Predictor (Please do not copy this!!!)
 
 ## Overview
 This project implements a machine learning model to predict thyroid cancer risk based on patient data. It was developed as a final project for CS 439
